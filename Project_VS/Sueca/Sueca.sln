@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sueca", "Sueca\Sueca.csproj", "{C382B3E6-96E1-4E16-B236-BB70AF82D636}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C382B3E6-96E1-4E16-B236-BB70AF82D636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C382B3E6-96E1-4E16-B236-BB70AF82D636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C382B3E6-96E1-4E16-B236-BB70AF82D636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C382B3E6-96E1-4E16-B236-BB70AF82D636}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C70D30B-5B18-417F-A70D-0C33D539AFCD}
+	EndGlobalSection
+EndGlobal

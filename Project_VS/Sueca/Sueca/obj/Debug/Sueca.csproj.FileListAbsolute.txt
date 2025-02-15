@@ -1,0 +1,60 @@
+C:\Users\dgani\Documents\a05_5\Project_VS\Sueca\Sueca\bin\Debug\Sueca.exe.config
+C:\Users\dgani\Documents\a05_5\Project_VS\Sueca\Sueca\bin\Debug\Sueca.exe
+C:\Users\dgani\Documents\a05_5\Project_VS\Sueca\Sueca\bin\Debug\Sueca.pdb
+C:\Users\dgani\Documents\a05_5\Project_VS\Sueca\Sueca\obj\Debug\Sueca.csproj.AssemblyReference.cache
+C:\Users\dgani\Documents\a05_5\Project_VS\Sueca\Sueca\obj\Debug\Sueca.About_us.resources
+C:\Users\dgani\Documents\a05_5\Project_VS\Sueca\Sueca\obj\Debug\Sueca.Choose_teams.resources
+C:\Users\dgani\Documents\a05_5\Project_VS\Sueca\Sueca\obj\Debug\Sueca.setup.resources
+C:\Users\dgani\Documents\a05_5\Project_VS\Sueca\Sueca\obj\Debug\Sueca.Waiting.resources
+C:\Users\dgani\Documents\a05_5\Project_VS\Sueca\Sueca\obj\Debug\Sueca.Join_game.resources
+C:\Users\dgani\Documents\a05_5\Project_VS\Sueca\Sueca\obj\Debug\Sueca.Main_menu.resources
+C:\Users\dgani\Documents\a05_5\Project_VS\Sueca\Sueca\obj\Debug\Sueca.Choose_games.resources
+C:\Users\dgani\Documents\a05_5\Project_VS\Sueca\Sueca\obj\Debug\Sueca.New_game.resources
+C:\Users\dgani\Documents\a05_5\Project_VS\Sueca\Sueca\obj\Debug\Sueca.Rules.resources
+C:\Users\dgani\Documents\a05_5\Project_VS\Sueca\Sueca\obj\Debug\Sueca.Properties.Resources.resources
+C:\Users\dgani\Documents\a05_5\Project_VS\Sueca\Sueca\obj\Debug\Sueca.csproj.GenerateResource.cache
+C:\Users\dgani\Documents\a05_5\Project_VS\Sueca\Sueca\obj\Debug\Sueca.csproj.CoreCompileInputs.cache
+C:\Users\dgani\Documents\a05_5\Project_VS\Sueca\Sueca\obj\Debug\Sueca.exe
+C:\Users\dgani\Documents\a05_5\Project_VS\Sueca\Sueca\obj\Debug\Sueca.pdb
+C:\Users\diogo\Ambiente de Trabalho\MEEC\1º ano\1ºS\PSW\Source Tree\a05_5\Project_VS\Sueca\Sueca\bin\Debug\Images_Icons\avatar_paus.jpg
+C:\Users\diogo\Ambiente de Trabalho\MEEC\1º ano\1ºS\PSW\Source Tree\a05_5\Project_VS\Sueca\Sueca\bin\Debug\Images_Icons\avatar_copas.jpg
+C:\Users\diogo\Ambiente de Trabalho\MEEC\1º ano\1ºS\PSW\Source Tree\a05_5\Project_VS\Sueca\Sueca\bin\Debug\Images_Icons\avatar_ouros.jpg
+C:\Users\diogo\Ambiente de Trabalho\MEEC\1º ano\1ºS\PSW\Source Tree\a05_5\Project_VS\Sueca\Sueca\bin\Debug\Images_Icons\avatar_espadas.jpg
+C:\Users\diogo\Ambiente de Trabalho\MEEC\1º ano\1ºS\PSW\Source Tree\a05_5\Project_VS\Sueca\Sueca\bin\Debug\Sueca.exe.config
+C:\Users\diogo\Ambiente de Trabalho\MEEC\1º ano\1ºS\PSW\Source Tree\a05_5\Project_VS\Sueca\Sueca\bin\Debug\Sueca.exe
+C:\Users\diogo\Ambiente de Trabalho\MEEC\1º ano\1ºS\PSW\Source Tree\a05_5\Project_VS\Sueca\Sueca\bin\Debug\Sueca.pdb
+C:\Users\diogo\Ambiente de Trabalho\MEEC\1º ano\1ºS\PSW\Source Tree\a05_5\Project_VS\Sueca\Sueca\obj\Debug\Sueca.csproj.AssemblyReference.cache
+C:\Users\diogo\Ambiente de Trabalho\MEEC\1º ano\1ºS\PSW\Source Tree\a05_5\Project_VS\Sueca\Sueca\obj\Debug\Sueca.About_us.resources
+C:\Users\diogo\Ambiente de Trabalho\MEEC\1º ano\1ºS\PSW\Source Tree\a05_5\Project_VS\Sueca\Sueca\obj\Debug\Sueca.Choose_teams.resources
+C:\Users\diogo\Ambiente de Trabalho\MEEC\1º ano\1ºS\PSW\Source Tree\a05_5\Project_VS\Sueca\Sueca\obj\Debug\Sueca.setup.resources
+C:\Users\diogo\Ambiente de Trabalho\MEEC\1º ano\1ºS\PSW\Source Tree\a05_5\Project_VS\Sueca\Sueca\obj\Debug\Sueca.Waiting.resources
+C:\Users\diogo\Ambiente de Trabalho\MEEC\1º ano\1ºS\PSW\Source Tree\a05_5\Project_VS\Sueca\Sueca\obj\Debug\Sueca.Join_game.resources
+C:\Users\diogo\Ambiente de Trabalho\MEEC\1º ano\1ºS\PSW\Source Tree\a05_5\Project_VS\Sueca\Sueca\obj\Debug\Sueca.Main_menu.resources
+C:\Users\diogo\Ambiente de Trabalho\MEEC\1º ano\1ºS\PSW\Source Tree\a05_5\Project_VS\Sueca\Sueca\obj\Debug\Sueca.Choose_games.resources
+C:\Users\diogo\Ambiente de Trabalho\MEEC\1º ano\1ºS\PSW\Source Tree\a05_5\Project_VS\Sueca\Sueca\obj\Debug\Sueca.New_game.resources
+C:\Users\diogo\Ambiente de Trabalho\MEEC\1º ano\1ºS\PSW\Source Tree\a05_5\Project_VS\Sueca\Sueca\obj\Debug\Sueca.Rules.resources
+C:\Users\diogo\Ambiente de Trabalho\MEEC\1º ano\1ºS\PSW\Source Tree\a05_5\Project_VS\Sueca\Sueca\obj\Debug\Sueca.Properties.Resources.resources
+C:\Users\diogo\Ambiente de Trabalho\MEEC\1º ano\1ºS\PSW\Source Tree\a05_5\Project_VS\Sueca\Sueca\obj\Debug\Sueca.csproj.GenerateResource.cache
+C:\Users\diogo\Ambiente de Trabalho\MEEC\1º ano\1ºS\PSW\Source Tree\a05_5\Project_VS\Sueca\Sueca\obj\Debug\Sueca.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Ambiente de Trabalho\MEEC\1º ano\1ºS\PSW\Source Tree\a05_5\Project_VS\Sueca\Sueca\obj\Debug\Sueca.exe
+C:\Users\diogo\Ambiente de Trabalho\MEEC\1º ano\1ºS\PSW\Source Tree\a05_5\Project_VS\Sueca\Sueca\obj\Debug\Sueca.pdb
+C:\Users\Nuno Silva\Desktop\4.o ano\PSW\Projeto\Project_VS\Sueca\Sueca\bin\Debug\Sueca.exe.config
+C:\Users\Nuno Silva\Desktop\4.o ano\PSW\Projeto\Project_VS\Sueca\Sueca\bin\Debug\Sueca.exe
+C:\Users\Nuno Silva\Desktop\4.o ano\PSW\Projeto\Project_VS\Sueca\Sueca\bin\Debug\Sueca.pdb
+C:\Users\Nuno Silva\Desktop\4.o ano\PSW\Projeto\Project_VS\Sueca\Sueca\obj\Debug\Sueca.csproj.AssemblyReference.cache
+C:\Users\Nuno Silva\Desktop\4.o ano\PSW\Projeto\Project_VS\Sueca\Sueca\obj\Debug\Sueca.About_us.resources
+C:\Users\Nuno Silva\Desktop\4.o ano\PSW\Projeto\Project_VS\Sueca\Sueca\obj\Debug\Sueca.Choose_teams.resources
+C:\Users\Nuno Silva\Desktop\4.o ano\PSW\Projeto\Project_VS\Sueca\Sueca\obj\Debug\Sueca.setup.resources
+C:\Users\Nuno Silva\Desktop\4.o ano\PSW\Projeto\Project_VS\Sueca\Sueca\obj\Debug\Sueca.Waiting.resources
+C:\Users\Nuno Silva\Desktop\4.o ano\PSW\Projeto\Project_VS\Sueca\Sueca\obj\Debug\Sueca.Join_game.resources
+C:\Users\Nuno Silva\Desktop\4.o ano\PSW\Projeto\Project_VS\Sueca\Sueca\obj\Debug\Sueca.Main_menu.resources
+C:\Users\Nuno Silva\Desktop\4.o ano\PSW\Projeto\Project_VS\Sueca\Sueca\obj\Debug\Sueca.Choose_games.resources
+C:\Users\Nuno Silva\Desktop\4.o ano\PSW\Projeto\Project_VS\Sueca\Sueca\obj\Debug\Sueca.New_game.resources
+C:\Users\Nuno Silva\Desktop\4.o ano\PSW\Projeto\Project_VS\Sueca\Sueca\obj\Debug\Sueca.Rules.resources
+C:\Users\Nuno Silva\Desktop\4.o ano\PSW\Projeto\Project_VS\Sueca\Sueca\obj\Debug\Sueca.Properties.Resources.resources
+C:\Users\Nuno Silva\Desktop\4.o ano\PSW\Projeto\Project_VS\Sueca\Sueca\obj\Debug\Sueca.csproj.GenerateResource.cache
+C:\Users\Nuno Silva\Desktop\4.o ano\PSW\Projeto\Project_VS\Sueca\Sueca\obj\Debug\Sueca.csproj.CoreCompileInputs.cache
+C:\Users\Nuno Silva\Desktop\4.o ano\PSW\Projeto\Project_VS\Sueca\Sueca\obj\Debug\Sueca.exe
+C:\Users\Nuno Silva\Desktop\4.o ano\PSW\Projeto\Project_VS\Sueca\Sueca\obj\Debug\Sueca.pdb
+C:\Users\dgani\Documents\a05_5\Project_VS\Sueca\Sueca\obj\Debug\Sueca.Game_lobby.resources
+C:\Users\dgani\Documents\a05_5\Project_VS\Sueca\Sueca\obj\Debug\Sueca.Game_Table.resources
