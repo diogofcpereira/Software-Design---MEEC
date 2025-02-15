@@ -1,0 +1,14 @@
+CSC = mcs
+
+CSC_FLAGS = -out:client1.exe
+
+SOURCE = main_client1.cs client.cs CARDS.cs DECKS.cs GAMES.cs PLAYERS.cs ROUNDS.cs 
+
+all: client1.exe
+    mono client1.exe
+
+client1.exe: $(SOURCE)
+    $(CSC) $(CSC_FLAGS) $(SOURCE)
+
+clean:
+    rm -f client1.exe

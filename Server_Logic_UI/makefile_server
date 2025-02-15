@@ -1,0 +1,14 @@
+CSC = mcs
+
+CSC_FLAGS = -out:server_test.exe
+
+SOURCE = main_server.cs server.cs CARDS.cs DECKS.cs GAMES.cs PLAYERS.cs ROUNDS.cs 
+
+all: server_test.exe
+    mono server_test.exe
+    
+server_test.exe: $(SOURCE)
+    $(CSC) $(CSC_FLAGS) $(SOURCE)
+
+clean:
+    rm -f server_test.exe
